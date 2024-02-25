@@ -100,3 +100,14 @@ main {
     margin: .5em 0 0;
     line-height: 1.1;
 }
+/********** PAGE PAYCARD *********/
+
+/********** STYLE FOOTER *********/
+footer{
+    background-color: #151515;
+    margin-top: 2rem;
+    padding: 20px 40px;
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+}
